@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Light";
+    src: local("ChelseaBasis-Light"),
+    url('./assets/fonts/ChelseaBasis-Light.woff');
+}
+
+@font-face {
+    font-family: "Regular";
+    src: local("ChelseaBasis-Regular"),
+    url('./assets/fonts/ChelseaBasis-Regular.woff');
+}
+
+@font-face {
+    font-family: "Medium";
+    src: local("ChelseaBasis-Medium"),
+    url('./assets/fonts/ChelseaBasis-Medium.woff');
+}
+
+@font-face {
+    font-family: "Bold";
+    src: local("ChelseaBasis-Bold"),
+    url('./assets/fonts/ChelseaBasis-Bold.woff');
+}
